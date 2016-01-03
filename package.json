@@ -1,0 +1,35 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "express server for rest api",
+  "main": "app.js",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "mongoose": "^4.3.4",
+    "express": "^4.13.3",
+    "body-parser": "^1.14.2",
+    "morgan": "^1.6.1",
+    "q": "^1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velmyk/express-server.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "api",
+    "express",
+    "mongo"
+  ],
+  "author": "velmyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/velmyk/express-server/issues"
+  },
+  "homepage": "https://github.com/velmyk/express-server#readme"
+}
